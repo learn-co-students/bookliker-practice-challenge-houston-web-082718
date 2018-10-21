@@ -1,4 +1,19 @@
 body {
+    font-family: Gill Sans Extrabold, sans-serif;
+}
+
+body {
 	display: grid;
-	grid-template-columns: 2fr 8fr
+	grid-template-columns: 2.25fr 6.75fr
+}
+
+#list-panel {
+	color: #e4e4e6;
+	background-color: #4b6055;
+	padding: 0px 20px 0px;
+}
+
+#show-panel {
+	background-color: #f7f7f7;
+	padding: 20px;
 }
